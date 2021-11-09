@@ -21,6 +21,8 @@ Todas las visualizaciones son también publicadas en nuestro Twitter:
 
 ### Formato JSON:
 
+🚧  🚨 **TODO:** Sección desactualizada. Los archivos JSON actuales siguien conteniendo las llaves aquí mencionadas, pero falta agregar información que ha sido agregada con posterioridad. 🚧 
+
 Los archivos JSON generados tienen el formato presentado en este ejemplo:
 
 ```json
